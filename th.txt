@@ -1,0 +1,23 @@
+html --> Hyper text markup language
+
+
+who developed html?
+-Tim Berners-Lee
+
+
+html 1 --> 1991
+html 2 --> 1995
+html 3 --> 1997 - jan
+html 4 --> 1997 - dec 
+html 5 --> 2014
+
+
+what is the use of html?
+- To create a static structure of website or webpages.
+
+html extension?
+.html
+
+
+where html run?
+- Browser
