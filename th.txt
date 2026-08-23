@@ -21,3 +21,7 @@ html extension?
 
 where html run?
 - Browser
+
+
+hr -- horizontal rule 
+br - break rule
